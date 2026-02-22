@@ -1,8 +1,8 @@
-# DeoHealth üèÉüìç
+# DeoHealth 🏃🔖
 
 DeoHealth is a comprehensive Android health and fitness application built with modern Android development practices. It helps users track their physical activity, manage health goals, and monitor progress toward a healthier lifestyle.
 
-## üöÄ Features
+## 🚀 Features
 
 - **Step Tracking**: Real-time monitoring of daily steps with historical data analysis.
 - **Calorie Record**: Log and track daily calorie intake and expenditure.
@@ -11,7 +11,7 @@ DeoHealth is a comprehensive Android health and fitness application built with m
 - **Local Persistence**: All data is securely stored locally using Room database.
 - **Modern UI**: Built entirely with Jetpack Compose for a smooth and responsive user experience.
 
-## üîß Tech Stack
+## 🛠️ Tech Stack
 
 - **Languge**: [Kotlin](https://kotlinlang.org/)
 - **UI Framework**: [Jetpack Compose](https://developer.android.com/jetpack/compose)
@@ -22,7 +22,7 @@ DeoHealth is a comprehensive Android health and fitness application built with m
 - **Background Tasks**: WorkManager
 - **Architecture**: MVVM (Model-View-ViewModel)
 
-## üìí Getting Started
+## 📓 Getting Started
 
 ### Prerequisites
 
@@ -39,7 +39,7 @@ DeoHealth is a comprehensive Android health and fitness application built with m
 3. Sync Project with Gradle Files.
 4. Run the app on an emulator or physical device.
 
-## üîí Sensitive Content & Privacy
+## 🔒 Sensitive Content & Privacy
 
 To maintain security and prevent the exposure of sensitive local configuration data, the following files are explicitly excluded from version control via `.gitignore`:
 
@@ -50,11 +50,11 @@ To maintain security and prevent the exposure of sensitive local configuration d
 
 **Note**: Always ensure your local environment is secured and never commit private keys to the repository.
 
-## üôñ License
+## 🙏 License
 
 This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. 
 
 See the [LICENSE](LICENSE) file for the full text.
 
 ---
-*Developed with  ÔøΩÔøΩ by Srinithish*
+*Developed with ❤️ by Srinithish*
