@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DeoHealth Mint-Green Palette -->
+    <color name="mint_green_primary">#FF4DB6A0</color>
+    <color name="mint_green_dark">#FF2E9E88</color>
+    <color name="mint_green_light">#FF7EC8B5</color>
+    <color name="warm_amber">#FFD4864A</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="background_light">#FFEFF8F5</color>
+    <color name="background_dark">#FF121816</color>
+</resources>

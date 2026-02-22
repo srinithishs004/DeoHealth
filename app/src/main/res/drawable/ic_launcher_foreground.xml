@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Heart shape (main logo element) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,78 L36,60 C30,54 30,44 36,38 C42,32 52,32 54,40 C56,32 66,32 72,38 C78,44 78,54 72,60 Z" />
+
+    <!-- Leaf element (upper-left, overlapping heart) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M40,48 C35,38 38,28 48,26 C48,26 50,36 45,44" />
+
+    <!-- Leaf vein -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,37 L41,42" />
+
+    <!-- Letter D -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M50,44 L50,56 M50,44 C58,44 62,48 62,50 C62,52 58,56 50,56" />
+
+    <!-- Text "DeoHealth" below heart -->
+    <!-- Omitted for adaptive icon; app name is shown by launcher -->
+</vector>
