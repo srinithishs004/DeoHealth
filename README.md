@@ -57,4 +57,4 @@ This project is licensed under the **Creative Commons Attribution 4.0 Internatio
 See the [LICENSE](LICENSE) file for the full text.
 
 ---
-*Developed by Srinithish*
+*Developed by Sri Nithish S*
